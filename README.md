@@ -1,6 +1,8 @@
 # NEW UNUSA SCANNER
 ![Preview](.unusa.jpg)
 
+> Laporkan masalah jika terjadi error
+
 ### Usage
 ```
 $ pkg install git python
