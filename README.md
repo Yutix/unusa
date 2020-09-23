@@ -1,7 +1,7 @@
 # NEW UNUSA SCANNER
 ![Preview](.unusa.jpg)
 
-> Laporkan masalah jika terjadi error
+> Laporkan ke admin jika terjadi masalah
 
 ### Usage
 ```
